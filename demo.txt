@@ -1,2 +1,13 @@
 Hello 
 welcome
+
+
+
+
+
+
+
+
+
+git remote add origin https://github.com/Nithishapalem/Project1.git
+git push -u origin main
